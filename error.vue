@@ -1,6 +1,7 @@
 <template>
     <div>
         <AppHeader />
+        <meta name="monetag" content="cc6e012aa49c4850b1b7b3aa81f28089">
         <div class="min-h-screen flex flex-col items-center justify-center bg:white dark:bg-gradient-to-br dark:bg-gray-950 dark:to-indigo-900 px-4 py-16">
             <div class="container max-w-6xl text-center">
 
